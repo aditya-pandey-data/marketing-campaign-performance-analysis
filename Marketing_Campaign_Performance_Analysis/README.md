@@ -207,6 +207,9 @@ Business Insights & Recommendations
 
 ---
 
+## 📂 Repository Structure
+
+```text
 marketing-campaign-performance-analysis/
 │
 ├── data/
@@ -232,6 +235,7 @@ marketing-campaign-performance-analysis/
 │   └── marketing-Campaign-Performance-Analysis.pdf
 │
 └── README.md
+```
 
 ---
 
