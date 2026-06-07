@@ -2,7 +2,7 @@
 
 > An end-to-end analytics project examining campaign performance across three beauty retail brands — uncovering profitability drivers, channel effectiveness, and high-value audience opportunities across 166,000+ campaign records.
 
-![Dashboard Preview](images/marketing_Campaign_Performance_Overview.png)
+![Dashboard Preview](images/marketing_campaign_performance_overview.png)
 
 ![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-green)
 ![MySQL](https://img.shields.io/badge/MySQL-Analysis-blue)
@@ -199,11 +199,11 @@ Business Insights & Recommendations
 
 ### Campaign Performance Overview
 
-![Performance Overview](images/marketing_Campaign_Performance_Overview.png)
+![Performance Overview](images/marketing_campaign_performance_overview.png)
 
 ### Marketing Optimization & Action Insights
 
-![Optimization Insights](images/marketing_Optimization___Action_Insights.png)
+![Optimization Insights](images/marketing_optimization_action_insights.png)
 
 ---
 
@@ -212,29 +212,31 @@ Business Insights & Recommendations
 ```text
 marketing-campaign-performance-analysis/
 │
-├── data/
-│   ├── raw_nykaa_campaign_data.csv
-│   ├── raw_purplle_campaign_data.csv
-│   ├── raw_tira_campaign_data.csv
-│   └── marketing_Campaign_Performance_Cleaned.csv
-│
-├── excel/
-│   └── marketing_Campaign_Performance.xlsx
-│
-├── sql/
-│   └── Campaign_performance.sql
-│
-├── tableau/
-│   └── marketing_Campaign_Performance_Analysis.twbx
-│
-├── images/
-│   ├── marketing_Campaign_Performance_Overview.png
-│   └── marketing_Optimization___Action_Insights.png
-│
-├── presentation/
-│   └── marketing-Campaign-Performance-Analysis.pdf
-│
-└── README.md
+└── Marketing_Campaign_Performance_Analysis/
+    │
+    ├── data/
+    │   ├── raw_nykaa_campaign_data.csv
+    │   ├── raw_purplle_campaign_data.csv
+    │   ├── raw_tira_campaign_data.csv
+    │   └── marketing_Campaign_Performance_Cleaned.csv
+    │
+    ├── excel/
+    │   └── marketing_Campaign_Performance.xlsx
+    │
+    ├── sql/
+    │   └── Campaign_performance.sql
+    │
+    ├── tableau/
+    │   └── marketing_Campaign_Performance_Analysis.twbx
+    │
+    ├── images/
+    │   ├── marketing_campaign_performance_overview.png
+    │   └── marketing_optimization_action_insights.png
+    │
+    ├── presentation/
+    │   └── marketing-Campaign-Performance-Analysis.pdf
+    │
+    └── README.md
 ```
 
 ---
