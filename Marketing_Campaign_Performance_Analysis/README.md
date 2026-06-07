@@ -2,7 +2,6 @@
 
 > An end-to-end analytics project examining campaign performance across three beauty retail brands — uncovering profitability drivers, channel effectiveness, and high-value audience opportunities across 166,000+ campaign records.
 
-![Dashboard Preview](images/marketing_campaign_performance_overview.png)
 
 ![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-green)
 ![MySQL](https://img.shields.io/badge/MySQL-Analysis-blue)
@@ -203,7 +202,7 @@ Business Insights & Recommendations
 
 ### Marketing Optimization & Action Insights
 
-![Optimization Insights](images/marketing_optimization_action_insights.png)
+![Optimization Insights](images/marketing_optimisation_action_insights.png)
 
 ---
 
@@ -231,7 +230,7 @@ marketing-campaign-performance-analysis/
     │
     ├── images/
     │   ├── marketing_campaign_performance_overview.png
-    │   └── marketing_optimization_action_insights.png
+    │   └── marketing_optimisation_action_insights.png
     │
     ├── presentation/
     │   └── marketing-Campaign-Performance-Analysis.pdf
