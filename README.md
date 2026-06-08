@@ -197,10 +197,12 @@ Business Insights & Recommendations
 ## 📊 Dashboard Previews
 
 ### Campaign Performance Overview
+This dashboard provides a high-level view of marketing campaign performance across brands, channels, and campaign types. It highlights key KPIs including revenue, profit, conversions, ROAS, ROI, and monthly performance trends.
 
 ![Performance Overview](images/marketing_Campaign_Performance_Overview.png)
 
 ### Marketing Optimization & Action Insights
+This dashboard focuses on campaign optimization opportunities by identifying high-performing campaigns, loss-making campaigns, audience-channel fit, and areas for strategic budget reallocation.
 
 ![Optimization Insights](images/marketing_Optimization___Action_Insights.png)
 
