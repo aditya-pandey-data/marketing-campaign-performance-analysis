@@ -2,8 +2,6 @@
 
 > An end-to-end analytics project examining campaign performance across three beauty retail brands — uncovering profitability drivers, channel effectiveness, and high-value audience opportunities across 166,000+ campaign records.
 
-![Dashboard Preview](Marketing_Campaign_Performance_Overview.png)
-
 ![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-green)
 ![MySQL](https://img.shields.io/badge/MySQL-Analysis-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
@@ -200,14 +198,17 @@ Business Insights & Recommendations
 
 ### Campaign Performance Overview
 
-![Performance Overview](Marketing_Campaign_Performance_Overview.png)
+![Performance Overview](marketing_Campaign_Performance_Overview.png)
 
 ### Marketing Optimization & Action Insights
 
-![Optimization Insights](Marketing_Optimization___Action_Insights.png)
+![Optimization Insights](marketing_Optimization___Action_Insights.png)
 
 ---
 
+## 📂 Repository Structure
+
+```text
 marketing-campaign-performance-analysis/
 │
 ├── data/
@@ -217,8 +218,8 @@ marketing-campaign-performance-analysis/
 │   └── marketing_Campaign_Performance_Cleaned.csv
 │
 ├── excel/
-│   ├── marketing_Campaign_Performance.xlsx
-│   
+│   └── marketing_Campaign_Performance.xlsx
+│
 ├── sql/
 │   └── Campaign_performance.sql
 │
@@ -233,7 +234,7 @@ marketing-campaign-performance-analysis/
 │   └── marketing-Campaign-Performance-Analysis.pdf
 │
 └── README.md
-
+```
 
 ---
 
@@ -266,7 +267,6 @@ Open the project presentation for a complete business summary.
 ## 📬 Contact
 
 Email: adityapandey12391@gmail.com
-
 
 
 ---
