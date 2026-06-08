@@ -8,6 +8,23 @@
 
 ---
 
+## 🔍 Project Overview
+
+This project performs a comprehensive analysis of digital marketing campaign data for three Indian beauty retail brands — Nykaa, Purplle, and Tira.
+
+The objective of this project was to evaluate marketing effectiveness across channels, customer segments, and brands to identify revenue drivers, optimize budget allocation, and improve campaign profitability.
+
+The analysis covers the complete analytics workflow:
+
+- Data Cleaning & Validation
+- Feature Engineering
+- SQL-Based Business Analysis
+- KPI Development
+- Interactive Dashboard Creation
+- Business Recommendation Generation
+
+---
+
 ## 📌 Project Snapshot
 
 | Metric | Value |
@@ -23,20 +40,12 @@
 
 ---
 
-## 🔍 Project Overview
+## 📑 Project Presentation
 
-This project performs a comprehensive analysis of digital marketing campaign data for three Indian beauty retail brands — Nykaa, Purplle, and Tira.
+A stakeholder-ready presentation summarizing the complete analysis, methodology, key findings, dashboard insights, and business recommendations.
 
-The objective of this project was to evaluate marketing effectiveness across channels, customer segments, and brands to identify revenue drivers, optimize budget allocation, and improve campaign profitability.
+📄 **View Presentation:** [Marketing Campaign Performance Analysis](presentation/marketing-Campaign-Performance-Analysis.pdf)
 
-The analysis covers the complete analytics workflow:
-
-- Data Cleaning & Validation
-- Feature Engineering
-- SQL-Based Business Analysis
-- KPI Development
-- Interactive Dashboard Creation
-- Business Recommendation Generation
 
 ---
 
