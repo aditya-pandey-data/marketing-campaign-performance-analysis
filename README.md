@@ -198,11 +198,11 @@ Business Insights & Recommendations
 
 ### Campaign Performance Overview
 
-![Performance Overview](marketing_Campaign_Performance_Overview.png)
+![Performance Overview](images/marketing_Campaign_Performance_Overview.png)
 
 ### Marketing Optimization & Action Insights
 
-![Optimization Insights](marketing_Optimization___Action_Insights.png)
+![Optimization Insights](images/marketing_Optimization___Action_Insights.png)
 
 ---
 
@@ -267,7 +267,6 @@ Open the project presentation for a complete business summary.
 ## 📬 Contact
 
 Email: adityapandey12391@gmail.com
-
 
 ---
 
