@@ -1,6 +1,6 @@
 # 📊 Marketing Campaign Performance Analysis
 
-> An end-to-end analytics project examining campaign performance across three beauty retail brands — uncovering profitability drivers, channel effectiveness, and high-value audience opportunities across 166,000+ campaign records.
+> An end-to-end marketing analytics project designed to help businesses optimize marketing spend, improve campaign profitability, and identify high-value customer acquisition opportunities by analyzing 166,000+ campaign records across three beauty retail brands.
 
 ![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-green)
 ![MySQL](https://img.shields.io/badge/MySQL-Analysis-blue)
