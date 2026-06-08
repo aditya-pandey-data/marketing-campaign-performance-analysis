@@ -34,7 +34,7 @@ The analysis covers the complete analytics workflow:
 | Timeframe | Jan–Dec 2025 |
 | Dashboards | 2 |
 | Tools Used | Excel, MySQL, Tableau |
-| Project Type | Marketing Analytics |
+| Project Type | Marketing Analytics & Business Intelligence Project |
 
 > **Note:** This project uses a synthetic dataset created for analytical and educational purposes. The objective is to demonstrate end-to-end data analytics, business intelligence, and dashboarding skills.
 
