@@ -284,3 +284,7 @@ Email: adityapandey12391@gmail.com
 ⭐ If you found this project useful, consider starring the repository.
 
 Built with Excel • MySQL • Tableau
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
