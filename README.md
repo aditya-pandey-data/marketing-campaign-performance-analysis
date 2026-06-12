@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Performance Analysis
+# 📊 Marketing Campaign Performance & Budget Optimisation Analysis 
 
 > An end-to-end marketing analytics project designed to help businesses optimize marketing spend, improve campaign profitability, and identify high-value customer acquisition opportunities by analyzing 166,000+ campaign records across three beauty retail brands.
 
