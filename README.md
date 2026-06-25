@@ -124,7 +124,7 @@ These resources fully document the preparation and structure of the dataset used
 ## 🔄 Project Workflow
 
 <p align="center">
-  <img src="images/marketing_workflow.png" alt="Project Workflow Diagram" width="900">
+  <img src="images/marketing_workflow-3.png" alt="Project Workflow Diagram" width="900">
 </p>
 
 ### 1️⃣ Data Cleaning — *Excel*
