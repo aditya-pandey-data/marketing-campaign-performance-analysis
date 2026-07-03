@@ -9,7 +9,7 @@
 [![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-217346?logo=microsoftexcel&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-Analysis-4479A1?logo=mysql&logoColor=white)](#)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 [Overview](#-project-overview) •
 [Key Findings](#-key-findings--insights) •
